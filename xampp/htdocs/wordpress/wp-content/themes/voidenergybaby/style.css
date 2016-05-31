@@ -1,0 +1,12 @@
+/*
+Theme Name: voidEnergyBaby
+Version: 1.0
+Description: A child theme of Sydney
+Template: sydney
+Author: Administrator
+*/
+@import url("../sydney/style.css");
+/* Your awesome customization starts here */
+
+a.roll-button.button-slider{display:none;}
+div.header-wrap{padding:5px;}
